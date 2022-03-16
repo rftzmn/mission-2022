@@ -1,7 +1,3 @@
-body {
-  font-family: "Offside", cursive;
-  margin: 0 5%;
-}
 h1 {
   font-size: 35px;
 }
@@ -11,6 +7,8 @@ h1 {
 }
 section {
   display: flex;
+  font-family: "Offside", cursive;
+  margin: 0 5%;
 }
 .half-width {
   width: 50%;
@@ -40,10 +38,9 @@ a {
   width: 50%;
 }
 .my-mission-2022 {
-  width: 20%;
-  height: 30%;
+  width: 30%;
+  height: 40%;
   padding: 2%;
-  margin: 0 auto;
   border-radius: 20px;
 }
 .my-mission-2022-1 {
@@ -51,7 +48,26 @@ a {
 }
 .my-mission-2022-2 {
   background-color: pink;
+  margin: auto 2%;
 }
 .my-mission-2022-3 {
   background-color: skyblue;
+}
+.blog {
+  margin-top: 5%;
+}
+.blog-image img {
+  width: 80%;
+}
+.contact {
+  display: block;
+  margin: auto 25%;
+  text-align: center;
+}
+footer {
+  font-family: "Indie Flower", cursive;
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin: 0;
 }
