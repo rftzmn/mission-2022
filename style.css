@@ -1,0 +1,57 @@
+body {
+  font-family: "Offside", cursive;
+  margin: 0 5%;
+}
+h1 {
+  font-size: 35px;
+}
+#mission-header {
+  border-left: 3px solid red;
+  padding-left: 5px;
+}
+section {
+  display: flex;
+}
+.half-width {
+  width: 50%;
+}
+#mission2022 {
+  margin-top: 10%;
+}
+#banner-profile-pic {
+  width: 90%;
+}
+span {
+  color: orange;
+}
+a {
+  text-decoration: none;
+}
+#explore-button {
+  background-color: tomato;
+  color: white;
+  padding: 10px 25px;
+  border-radius: 5px;
+}
+#my-mission {
+  text-align: center;
+}
+.my-mission-2022 img {
+  width: 50%;
+}
+.my-mission-2022 {
+  width: 20%;
+  height: 30%;
+  padding: 2%;
+  margin: 0 auto;
+  border-radius: 20px;
+}
+.my-mission-2022-1 {
+  background-color: #fff4d6;
+}
+.my-mission-2022-2 {
+  background-color: pink;
+}
+.my-mission-2022-3 {
+  background-color: skyblue;
+}
